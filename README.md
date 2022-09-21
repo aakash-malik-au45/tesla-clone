@@ -1,3 +1,27 @@
+ tesla-clone Project
+
+In this project we focus on backend api and html,css to.
+
+### STYLING
+* Bootstrap
+* Google fonts(for text)
+*  css
+
+### Firabase Auth
+ * Sign up
+ * Sign in
+### check model and new cars 
+ * configure
+ * demo
+ * pricising
+ ### test drive appoitment
+ * demo
+ * pricising
+  ### search model
+  * buy other product
+ * at to wishlist
+  
+ 
 In the project directory, you can run:
 
 yarn start
